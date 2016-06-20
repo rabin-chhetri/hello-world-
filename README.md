@@ -1,2 +1,2 @@
 # hello-world-
-this is my first codes of hello world.
+Hello everyone i m rabin chhetri and my hobby is programming
